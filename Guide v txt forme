@@ -42,11 +42,15 @@ Txt=”Ahoj”
 •	len(‘’Ahoj’’) – vypise dlzku retazca teda cislo 4 
 •	[1] – vrati nam 1-prvy znak z retazca teda ‘’h’’
 •	[1:3] – vrati nam znaky od 1 znaku az po 3 teda ”ho”
+•	[1:-1] – vrati nam znaky od druheho indexu zozadu az po prvu index teda ‘’ho’’
 •	* - vypise nam niekolko krat retazec teda  txt*3 vrati AhojAhojAhoj 
 •	In – vrati nam True alebo False teda M in txt vrati 0
 •	Not in  - negacia in teda M in txt vrati 1
 •	r – ak nechceme vypisat novy riadok pouzijeme na zaciatku r cesta= r"C:\documents\notes"
 •	\n – novy riadok pre text nachadzajuci sa za \n
 •	\t – tabulator pre text nachadzajuci sa za \t
+•	Str(premnna) – pomcou tejto funkcie prevedieme premennu integer na typ string
+
+
 
  
